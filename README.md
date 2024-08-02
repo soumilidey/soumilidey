@@ -13,6 +13,3 @@ Hey, I'm Soumili Dey!<br><br>Welcome to my GitHub profile! I'm a passionate stud
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=soumilidey&icon=0&color=4)](https://visitcount.itsvg.in)
