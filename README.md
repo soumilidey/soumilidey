@@ -16,9 +16,9 @@ GitHub Stats
 ![Soumili Dey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumili-dey&show_icons=true&hide_title=true&hide_rank=true&count_private=true&hide=prs&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumili-dey&layout=compact&theme=radical)
 
-## 🛠️ Projects
+Projects
 
-I've worked on a variety of projects ranging from web development to machine learning. Here are a few highlights:
+I've worked on a variety of projects. Here are a few highlights:
 
 - **Spectagram**: A space application where you can be a member and share your creation with the world. Connect with people you like and work together on your own innovation.
 - **Stellar**: A space app created using react native.The ui has been designed in accordance to the NASA application.
