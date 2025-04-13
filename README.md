@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Soumili Dey!<br><br>Here are a few highlights:<br><br>- **Spectagram**: A space application where you can be a member and share your creation with the world. Connect with people you like and work together on your own innovation.<br>- **Stellar**: A space app created using react native.The ui has been designed in accordance to the NASA application.<br><br>Feel free to explore my repositories to see more of my work!
+Hey, I'm Soumili Dey!<br><br>Here are a few highlights:<br><br>- **Spectagram**: A space application where you can be a member and share your creation with the world. Connect with people you like and work together on your own innovation.<br>- **Stellar**: A space application.<br><br>Feel free to explore my repositories to see more of my work!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumilid_) 
