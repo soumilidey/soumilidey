@@ -3,7 +3,7 @@ Hey, I'm Soumili Dey!<br><br>Here are a few highlights:<br><br>- **Spectagram**:
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumilid_) 
-[![Twitter](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://instagram.com/soumilidey_) 
+[![Twitter](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/soumilidey_) 
 [![Discord](https://img.shields.io/badge/Discord-purple.svg?logo=Discord&logoColor=white)](https://discord.gg/tvfeSYs7) 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg?logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/_) 
 
